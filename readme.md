@@ -20,4 +20,6 @@ Chap6 Spatial-Temporal Data Visualization
 
 Chap7 Text Data Visualization
 
+Appendix
+
 #################################################################################
